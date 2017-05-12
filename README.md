@@ -8,13 +8,13 @@ Run the following command from you terminal:
 
 
  ```bash
- composer require "nicoaudy/repositories: 0.*"
+ composer require "nicoaudy/repository: 0.*"
  ```
 
 or add this to require section in your composer.json file:
 
  ```
- "nicoaudy/repositories": "0.*"
+ "nicoaudy/repository": "0.*"
  ```
 
 then run ```composer update```
